@@ -4,4 +4,4 @@
 !.gitignore
 !composer.local.json
 !default.vcl
-!LocalSettingsTemplate.php
+!SettingsTemplate.php
